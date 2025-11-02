@@ -49,7 +49,7 @@ Sales-Insights-SQL-Tableau/
 #### **2. Data Exploration & SQL Analysis**
 Run sql queries after importing the data.
 
-#### **3. Visualization in Tableau
+#### **3. Visualization in Tableau**
 
 Once data was cleaned and aggregated using SQL:
 
@@ -60,13 +60,13 @@ Once data was cleaned and aggregated using SQL:
 - Market-wise Revenue Distribution
 - Top Customers & Products
 
-#### **4. Key Insights
+#### **4. Key Insights**
 
 - Revenue grew steadily between 2017 and 2020.
 - Certain markets (like Chennai) had consistent high performance.
 - Top customers contributed significantly to overall revenue share.
 
-#### **5. Conclusion
+#### **5. Conclusion**
 
 This project reflects how real-world business intelligence solutions are built — from data extraction in SQL to interactive visualization in Tableau.
 It’s a solid foundation for anyone aspiring to work as a Data Analyst or Business Intelligence Developer.

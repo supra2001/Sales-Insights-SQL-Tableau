@@ -29,12 +29,12 @@ The case study is based on a **computer hardware business** facing challenges in
 
 ### 📁 Folder Structure
 Sales-Insights-SQL-Tableau/
- ── data/ # (Contains supporting datasets)
- ── db_dump.sql # MySQL database dump
- ── data_analysis_sales.sql # SQL queries used for data analysis
- ── sales_dashboard.twb # Tableau workbook file
- ── dashboard_ss.png # Screenshot of final Tableau dashboard
- ── README.md # Project documentation
+ - data/ # (Contains supporting datasets)
+ - db_dump.sql # MySQL database dump
+ - data_analysis_sales.sql # SQL queries used for data analysis
+ - sales_dashboard.twb # Tableau workbook file
+ - dashboard_ss.png # Screenshot of final Tableau dashboard
+ - README.md # Project documentation
 
 ---
 
